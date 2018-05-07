@@ -1,0 +1,17 @@
+# Site settings
+title: A Picnic in the Rain
+email: apicnicintherain@gmail.com
+description: "Good stories and writing."
+baseurl: ""
+url: "http://apicnicintherain.github.io"
+github_username: apicnicintherain
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
